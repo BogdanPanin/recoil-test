@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://bogdanpanin.github.io/recoil-test/",
+  base: "/recoil-test/",
 });
